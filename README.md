@@ -5,7 +5,7 @@ Solución Problema 3 - Auditoría de Inventario - Fase 5 Fundamentos de Programa
 # FASE 5 - EVALUACIÓN FINAL POA
 # PROBLEMA 3 - AUDITORÍA DE INVENTARIO
 # ===============================================================
-# ESTUDIANTE: [NOMBRE COMPLETO]
+# ESTUDIANTE: [JHOAN SEBASTIAN MORENO GALINDO]
 # GRUPO: [NÚMERO DE GRUPO]
 # FECHA: Julio, 2026
 # ===============================================================
